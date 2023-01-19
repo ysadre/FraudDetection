@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection Model for Imbalanced Data
+# Fraud Detection Model for Imbalanced Data
 I built this machine learning model to detect credit card fraud in imbalanced data sets. This notebook will test different methods on skewed data - the idea is to compare if preprocessing techniques work better when there is an overwhelming majority class that can disrupt the efficiency of our predictive model. It also showcases how to apply cross validation for hyperparameter tuning on different classification models. Models used are:
 1. Logistic Regression
 2. SVMs
